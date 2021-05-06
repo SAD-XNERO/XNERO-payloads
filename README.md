@@ -10,7 +10,7 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="soon"><img title="" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="soon"><img title="" </a>
 </p>
 <p align="center">
 </p>
