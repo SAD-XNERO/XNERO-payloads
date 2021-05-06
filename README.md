@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Join Our Whastapp Group For Any Queries and Learn Hacking 
+### Join Our discord Group For Any Queries and Learn Hacking 
 * https://discord.gg/tr  -- discord tools
 ### CLONE
 ```
