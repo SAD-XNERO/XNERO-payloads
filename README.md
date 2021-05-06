@@ -23,6 +23,7 @@
 <p align="center">
    TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
+<br>
 The use of the Enigma is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 
 DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
