@@ -65,3 +65,11 @@ python TheAngelTheAngel.py
 or
 python3 TheAngel3.py
 ```
+### Contact For Contribute & Issues 
+
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : RN_@outlook.com
+
+### DISCLAIMER
+                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+
+The use of the sad-xnero is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
