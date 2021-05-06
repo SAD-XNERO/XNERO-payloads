@@ -1,9 +1,6 @@
 <p align="right">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/uses-html.svg" ></a>
  </p>
-<p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-v1-blue" ></a>  
-</p>
 <img src="https://media.discordapp.net/attachments/836290274224373810/838507389149904965/image0.jpg?width=1202&height=676">
 <p align="center">
 * https://discord.gg/tr  -- discord tools
