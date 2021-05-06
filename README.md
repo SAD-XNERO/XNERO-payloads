@@ -1,32 +1,17 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/enigma.png">
-</p>
-
-<h1 align="center">Enigma</h1>
-<p align="center">
-  Multiplatform payload dropper.
-</p>
-
-## VIDEO DEMO
-<p align="center">
-<a href="https://youtu.be/ZszpJAF7Ti8">
-  <img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/video.png" />
-</a></p>
-
 ### CLONE
 ```
-git clone https://github.com/UndeadSec/Enigma.git
+git clone https://github.com/SAD-XNERO/XNERO-payloads.git
 ```
 
 ### RUNNING
 ```
-cd Enigma
+cd XNERO-payloads
 ```
 
 ```
-python enigma.py
+python TheAngel.py
 or
-python3 enigma3.py
+python3 TheAngel3.py
 ```
 ## DISCLAIMER
 <p align="center">
@@ -54,12 +39,6 @@ Taken from [LICENSE](LICENSE).
 ## TESTED ON
 [![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
 
-## Donation
-If you liked our work and want to support us, you can donate :D
-
-<img src="https://raw.githubusercontent.com/UndeadSec/Enigma/master/Images/donation.png"></img>
-
-Bitcoin Address: 1EmJ5KiAKzpyqGGHopAq9qukrVPS47T9bA
-
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/Enigma/blob/master/Images/sc.png)
+![Shot](https://media.discordapp.net/attachments/839553634664185926/839662021972983869/ANGEL.png?width=917&height=675)
+
