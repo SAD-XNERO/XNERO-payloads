@@ -19,24 +19,6 @@
 <br>
 <br>
 <br>
-
-### Join Our discord Group For Any Queries and Learn Hacking 
-* https://discord.gg/tr  -- discord tools
-### CLONE
-```
-git clone https://github.com/SAD-XNERO/XNERO-payloads.git
-```
-
-### RUNNING
-```
-cd XNERO-payloads
-```
-
-```
-python TheAngel.py
-or
-python3 TheAngel3.py
-```
 ## DISCLAIMER
 <p align="center">
    TO BE USED FOR EDUCATIONAL PURPOSES ONLY
@@ -55,8 +37,8 @@ Taken from [LICENSE](LICENSE).
 
 ### PREREQUISITES
 
-* python 2.7 for enigma.py
-* python 3.x for enigma.py
+* python 2.7 for TheAngel.py
+* python 3.x for TheAngel.py
 * metasploit
 * msfvenom
 
@@ -66,3 +48,20 @@ Taken from [LICENSE](LICENSE).
 ### SCREENSHOT
 ![Shot](https://media.discordapp.net/attachments/839553634664185926/839662021972983869/ANGEL.png?width=917&height=675)
 
+### Join Our discord Group For Any Queries and Learn Hacking 
+* https://discord.gg/tr  -- discord tools
+### CLONE
+```
+git clone https://github.com/SAD-XNERO/XNERO-payloads.git
+```
+
+### RUNNING
+```
+cd XNERO-payloads
+```
+
+```
+python TheAngelTheAngel.py
+or
+python3 TheAngel3.py
+```
